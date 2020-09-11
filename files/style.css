@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #e3f4ff;
+    }
+
+
+.main {
+    width: 100vw;
+}
+
+.image{
+    width: 100%;
+}
